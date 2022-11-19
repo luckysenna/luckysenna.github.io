@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(36, 36, 85);
+}
+
+a {
+    text-decoration: none;
+    color: rgb(32, 6, 6);
+}
+
+ul {
+    list-style: none;
+    display: inline;
+}
+
+#apresentacao {
+    position: relative;
+}
+
+#eu {
+    width: 200px;
+    height: 200px;
+}
+
+.inline {
+    display: inline-block;
+}
